@@ -2,6 +2,7 @@
 int main()
 {
 int a,i,j;
+printf("\n Enter the size");
 scanf("%d",&a);
 for(i=1;i<=a;i++)
 {
